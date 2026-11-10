@@ -1,0 +1,63 @@
+{
+    "alumnos": [
+        {
+            "cedula": "hsadebywef",
+            "nombre": "165181651",
+            "fecha_nacimiento": "bhkjkjhbjhb",
+            "telefono": "hghgvghvhg",
+            "correo": "vfv6vfv66fsd",
+            "emergencia": "5255662",
+            "ficha_medica": "56535",
+            "estilo": "2562",
+            "nivel": "26626",
+            "horario": "nfkddfv",
+            "dias": "6885",
+            "fecha_ingreso": "2026-11-06",
+            "estado": "Activo"
+        },
+        {
+            "cedula": "0916263155",
+            "nombre": "Victor Hugo Rea Valencia",
+            "fecha_nacimiento": "1979-04-13",
+            "telefono": "0959054812",
+            "correo": "reasalsa@hotmail.com",
+            "emergencia": "0959054813",
+            "ficha_medica": "155962",
+            "estilo": "Salsa On1",
+            "nivel": "Avanzado",
+            "horario": "Noches (08:00 PM - 09:00 PM)",
+            "dias": "Martes y Jueves",
+            "fecha_ingreso": "2026-11-06",
+            "estado": "Activo"
+        },
+        {
+            "cedula": "0916273155",
+            "nombre": "Victor Jorkaet Rea Sanchez",
+            "fecha_nacimiento": "1979-04-13",
+            "telefono": "0959054812",
+            "correo": "reasalsa@hotmail.com",
+            "emergencia": "0959054812",
+            "ficha_medica": "Ninguna",
+            "estilo": "Salsa On1",
+            "nivel": "Avanzado",
+            "horario": "Noches (08:00 PM - 09:00 PM)",
+            "dias": "Martes y Jueves",
+            "fecha_ingreso": "2026-11-10",
+            "estado": "Activo"
+        }
+    ],
+    "asistencias": [
+        {
+            "cedula": "hsadebywef",
+            "nombre": "165181651",
+            "fecha": "2026-11-06",
+            "estado": "Presente"
+        },
+        {
+            "cedula": "0916263155",
+            "nombre": "Victor Hugo Rea Valencia",
+            "fecha": "2026-11-06",
+            "estado": "Presente"
+        }
+    ]
+}
